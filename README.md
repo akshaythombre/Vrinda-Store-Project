@@ -23,7 +23,5 @@ The Vrinda Store Annual Report for 2022 provides an in-depth analysis of sales p
 ## Data Story :
 The Vrinda Store saw consistent growth in orders and sales throughout 2022, achieving strong performance in delivery and maintaining a diverse customer base, predominantly composed of female adults. Amazon remains the most utilized sales channel, contributing significantly to the overall sales figures.
 
-![image](https://github.com/user-attachments/assets/16df1cba-d0fe-4dba-a1a9-e1e330c58dbf)
-
 ## Dashboard :
 <img src="./Screenshot store.png" width="3000" height="600"/>&nbsp;
