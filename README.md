@@ -1,5 +1,5 @@
 # Vrinda-Store-Project
-![Coffee Background Banner (4)](smeeling-coffee-beans_900x_5148e663-e441-4642-af81-ade43296e6b5_900x.jpg)
+![charlesdeluvio-BAbXlv7AxzM-unsplash.jpg)
 
 ## Overview : 
 The Vrinda Store Annual Report for 2022 provides an in-depth analysis of sales performance, order statistics, and customer demographics. This report highlights the trends, growth areas, and insights to guide future business decisions.
