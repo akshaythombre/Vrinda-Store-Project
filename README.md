@@ -9,6 +9,7 @@ The Vrinda Store Annual Report for 2022 provides an in-depth analysis of sales p
 
 ## Result and Insights :
 -Orders vs. Sales: Showcases the relationship between the number of orders and total sales amount, demonstrating a monthly trend.
+
 -Sales by Gender: Indicates a higher volume of sales to women (64%) compared to men (36%).
 -Order Status: Illustrates the efficiency of order fulfillment, with 92% of orders delivered successfully.
 -Sales by State: Identifies the top five states contributing to sales, with Maharashtra leading at 2.99M.
